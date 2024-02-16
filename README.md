@@ -2,7 +2,7 @@
 
 ## Requisitos
 
-- [] CRUD Movimentações
-- [] CRUD Categorias
-- [] Dashboard
-- [] Autenticação
+- [ ] CRUD Movimentações
+- [ ] CRUD Categorias
+- [ ] Dashboard
+- [ ] Autenticação
